@@ -1,0 +1,41 @@
+.App {
+  /* text-align: center; */
+  padding: 20px;
+}
+
+.item-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.item {
+  
+  border-bottom: 1px solid red;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 600px;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+
+}
+
+.item h3 {
+  margin-top: 0;
+}
+.description {
+  font-weight: bold;
+  font-size: 1.2em;
+  display: block;
+}
+.col
+{
+  color: brown;
+}
+.gtr
+{
+  font-style: italic;
+  font-size: small      ;
+}
+
